@@ -15,9 +15,8 @@ ___
   * [Functions](https://gist.github.com/aecf12c91aae3dd52229b336becc14a3)
   * [Objects and Classes](https://gist.github.com/206ff769040609c1d5727a8258e5a21c)
 * Working with Data in Python
-  * [Reading files]()
-  * [Writing files]()
-  * [Loading and Viewing data]()
+  * [Reading files](https://gist.github.com/49493e1211bb19b1803f166b0a12758b)
+  * [Writing files](https://gist.github.com/bf174aac24b9f51bac6eb6015cd1ef0a)
 * Working with Numpy Arrays
   * [1D Numpy Arrays]()
   * [2D Numpy Arrays]()
