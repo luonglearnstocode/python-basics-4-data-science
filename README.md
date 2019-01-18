@@ -10,10 +10,10 @@ ___
   * [Sets](https://gist.github.com/8179a1fd0e7fe26f3dc86d183e69731c)
   * [Dictionaries](https://gist.github.com/1e8698beedcf6a418dd8dab4f6a4bf4b)
 * Python Programming Fundamentals
-  * [Conditions and Branching]()
-  * [Loops]()
-  * [Functions]( )
-  * [Objects and Classes]( )
+  * [Conditions and Branching](https://gist.github.com/4ef903411ccc46c145de0c75e09bcbd5)
+  * [Loops](https://gist.github.com/beb859d387f56c72bf9da8854174a59a)
+  * [Functions](https://gist.github.com/aecf12c91aae3dd52229b336becc14a3)
+  * [Objects and Classes](https://gist.github.com/206ff769040609c1d5727a8258e5a21c)
 * Working with Data in Python
   * [Reading files]()
   * [Writing files]()
