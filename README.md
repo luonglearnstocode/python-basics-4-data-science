@@ -18,5 +18,5 @@ ___
   * [Reading files](https://gist.github.com/49493e1211bb19b1803f166b0a12758b)
   * [Writing files](https://gist.github.com/bf174aac24b9f51bac6eb6015cd1ef0a)
 * Working with Numpy Arrays
-  * [1D Numpy Arrays]()
-  * [2D Numpy Arrays]()
+  * [1D Numpy Arrays](https://gist.github.com/6f5fb4782f62c9dc82e307e0a28f0fec)
+  * [2D Numpy Arrays](https://gist.github.com/bf174aac24b9f51bac6eb6015cd1ef0a)
